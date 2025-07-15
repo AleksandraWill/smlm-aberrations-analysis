@@ -1,5 +1,5 @@
 # SMLM_beads_processing
-SMLM_beads_processing is a MATLAB script designed to analyze single-molecule localization microscopy (SMLM) bead samples captured as z-stack images. The input is a multi-frame TIFF file representing a whole field of view z-stack, containing all actual fluorescent beads and background within the imaged region.
+FluorescenceBeadAnalysis_test_1.m is a MATLAB script designed to analyze bead samples captured as z-stack images. The input is a multi-frame TIFF file representing a whole field-of-view z-stack.
 
 # The script performs the following automated steps:
 Loads a user-selected whole field of view z-stack TIFF image.\
