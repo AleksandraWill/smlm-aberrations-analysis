@@ -1,0 +1,2 @@
+[2025-10-09 04:56:25] ERROR: app.stack is not initialized!
+[2025-10-09 05:07:42] ERROR: Invalid or deleted object.

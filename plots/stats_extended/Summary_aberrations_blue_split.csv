@@ -1,0 +1,5 @@
+Radial_Bin,Region,Mean_Astigmatism,Astig_Status,Mean_Coma,Coma_Status,Mean_Spherical,Spherical_Status
+0-50,Center,2.38e-08 ± 3.14e-09,Lowest,1.97e-08 ± 9.52e-10,Lowest,2.07e-08 ± 1.20e-09,Baseline
+50-150,Mid-Field,-2.62e-08 ± 4.41e-08,Lowest,-2.89e-08 ± 5.67e-08,Lowest,-5.86e-09 ± 2.59e-08,Baseline
+150-250,Outer-Field,-1.33e-08 ± 1.03e-07,Moderate,6.74e-09 ± 9.76e-08,Moderate,5.59e-08 ± 1.40e-07,Fluctuating
+250+,Periphery,N/A,No Data,N/A,No Data,N/A,No Data
