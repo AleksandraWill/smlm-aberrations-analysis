@@ -41,7 +41,7 @@ This module extracts individual bead regions from whole FOV z-stacks.
   *(Note: The multiplier can be adjusted to 2, 7, or 10 depending on noise levels).*
 
 - **Centroid Filtering & Overlap Removal**: 
-  To ensure high-quality data, detected beads are filtered based on boundary proximity. If two bead centroids fall within a defined **42x42 pixel ROI** (`roiSize = 42`), both are marked for removal to prevent overlapping signals from biasing the aberration measurement.
+  To ensure high-quality data, detected beads are filtered based on boundary proximity. If two bead centroids fall within a defined ROI (default **42x42 pixels**, `roiSize = 42`), both are marked for removal to prevent overlapping signals from biasing the aberration measurement. *(Note: This value can be adjusted depending on the experimental setup).*
 
 - **Output**: 
   - **`Figure_1.tif`**: A summary image showing detected beads overlaid on the full FOV.
