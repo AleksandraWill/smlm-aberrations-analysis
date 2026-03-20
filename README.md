@@ -83,6 +83,15 @@ The pipeline includes specialized filtering scripts to isolate the most signific
 - **Radial Distance Plots**: Visualizes aberration metrics relative to the image center.
 - **Statistical Summaries**: Generates binned summaries and exportable data tables.
 
-## 📄 References
+## References
 - Zernike polynomials basis: *Kuo Niu & Chao Tian (2022), "Zernike polynomials and their applications"*.
+
+## Academic Credit
+
+This software was developed as part of the following Master's Thesis:
+
+**Title:** *AUTOMATED COMPUTATIONAL CHARACTERIZATION OF ABERRATIONS IN FLUORESCENCE MICROSCOPY: A COMPARATIVE ANALYSIS*  
+**Author:** Aleksandra Wilga  
+**Institution:** IMC Hochschule für Angewandte Wissenschaften Krems (University of Applied Sciences)  
+**Submitted:** 15.03.2026  
 ```
