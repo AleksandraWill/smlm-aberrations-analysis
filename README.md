@@ -25,7 +25,7 @@ addpath(genpath('C:\Users\...\AppData\Roaming\MathWorks\MATLAB Add-Ons\Apps\Aber
 
 The following diagram illustrates the sequential workflow from raw data to statistical reporting:
 
-![Uploading Flow_chart_corrected-2026-03-20-202522.png…]()
+![SMLM Aberrations Workflow](Flow_chart.png)
 
 ---
 
